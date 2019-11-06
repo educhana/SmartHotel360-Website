@@ -11,6 +11,10 @@ using SmartHotel360.PublicWeb.Models.Settings;
 using SmartHotel360.PublicWeb.Services;
 using System;
 
+
+
+
+
 namespace SmartHotel360.PublicWeb
 {
     public class Startup
